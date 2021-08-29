@@ -1,2 +1,2 @@
 DEBUG = True
-ALLOWED_HOSTS = ['alexbrand.pythonanywhere.com']
+ALLOWED_HOSTS = []
